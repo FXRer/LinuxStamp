@@ -1,0 +1,3 @@
+[submodule "Test/wiegand-linux"]
+	path = Test/wiegand-linux
+	url = https://github.com/markjasonanderson/wiegand-linux.git
